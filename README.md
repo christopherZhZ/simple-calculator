@@ -1,2 +1,2 @@
 # simple-calculator
-A simple calculator program written in Java.
+A simple calculator program written in Java using Swing.
